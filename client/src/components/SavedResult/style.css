@@ -10,10 +10,12 @@
 
 .deleteBook {
     border-radius: 5px;
-    margin-left: 5px
+    margin-bottom: 10px;
+    margin-left: 20px;
 }
 
 .viewBook {
     border-radius: 5px;
-    margin-left: 5px
+    margin-bottom: 10px;
+    margin-left: 20px;
 }
